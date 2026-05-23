@@ -1,0 +1,6 @@
+{
+  "note": "Synthetic fake secrets for lab scanner validation.",
+  "stripe_secret_key": "sk_live_onwhgllpojts25dfon2gs3thfuytkl3m",
+  "slack_bot_token": "xoxb-111111111111-222222222222-onwhgllpojts25dfon2gs3th",
+  "private_key": "-----BEGIN PRIVATE KEY-----\\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASC_FAKE_TEST_KEY_ONLY\\n-----END PRIVATE KEY-----"
+}
