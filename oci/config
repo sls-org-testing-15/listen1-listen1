@@ -1,0 +1,7 @@
+# Synthetic OCI credentials for scanner validation. These are fake.
+[DEFAULT]
+user=ocid1.user.oc1..nrzs233sm4wxizltoruw4zznge2s63djon2gk3rrfvwgs43umvxd
+fingerprint=n5:rw:so:tt:nr:zs:23:3s:m4:wx:iz:lt:or:uw:4z:zn
+tenancy=ocid1.tenancy.oc1..n5rwsottnrzs233sm4wxizltoruw4zznge2s63djon2gk3rrfvwg
+region=us-ashburn-1
+key_file=./oci_api_key.pem
